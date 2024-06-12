@@ -35,3 +35,9 @@ After successful build, load extension from `unpacked2x` folder as local package
 <p>
     <img src="https://github.com/up209d/ResourcesSaverExt/blob/master/guide.png?raw=true" alt="load-local-extension" />
 </p>
+
+
+
+### 谷歌插件使用：
+2谷歌浏览器F12添加插件将文件夹中的unpack1x添加进去
+3.打开网页 f12 最右侧的ResourcesSave下载
